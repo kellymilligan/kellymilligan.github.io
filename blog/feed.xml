@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code, beer, and limited legroom</title>
+    <description>Photo journal of a Creative Front-end Developer from New Zealand living and working in Europe
+</description>
+    <link>http://kellymilligan.co.nz/blog/</link>
+    <atom:link href="http://kellymilligan.co.nz/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 30 Oct 2016 15:41:33 +0100</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 15:41:33 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Slovenia</title>
+        <description>&lt;p&gt;Krysten and I spent an absolutely epic weekend in Slovenia. This place is so underrated! What an incredible hidden gem in Europe. One of the most beautiful places we’ve seen. It has 50% dense forest cover over the entire country and is super lush. It’s quiet and sleepy, even in the main city Ljubljana. We covered it by car which we’d highly recommend. Going in October worked out great, it was a bit drizzly, but that full gamut of leaves and those misty hills are hard to beat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-54.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-55.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-56.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-57.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-58.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-59.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-60.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-61.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-62.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-63.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-64.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-65.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-66.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-67.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-68.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-69.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-70.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-71.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-72.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-73.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-74.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-75.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-76.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-77.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-78.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-79.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-80.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-81.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-82.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-83.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/slovenia/slovenia-84.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Na zdravje!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/10/30/slovenia.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/30/slovenia.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Naples and Pompeii</title>
+        <description>&lt;p&gt;Our final stop in what was busy 2 weeks in Italy. Napoli is quite different to the other cities we saw. It’s a bit more rough around the edges, but still has it’s own charm. Mount Vesuvius offers a pretty neat view, and Pompeii is absolutely incredible. It’s worth coming to Italy just to see Pompeii, what a treasure of human history. We unfortunately didn’t have enough time to see all of it! We’ll be back.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/naples/naples-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/naples/naples-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-54.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-55.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-56.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-57.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-58.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-59.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/naples/naples-60.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salute!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/10/07/Naples.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/07/Naples.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Rome</title>
+        <description>&lt;p&gt;Oh Rome, the home of European civilization and Catholicism. How cool to finally see these famous places, buildings, and historic artifacts in person. There’s more ruins than you can shake a stick at; almost every block has something fascinatingly old. It’s a little bit overwhelming. The Vatican Museum houses an incredibly large collection of priceless pieces, I especially enjoyed seeing the ancient Egyptian items. A strong display of power and wealth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/rome/rome-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/rome/rome-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/rome/rome-49.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salute!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/10/06/Rome.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/06/Rome.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Florence and Tuscany</title>
+        <description>&lt;p&gt;From Venice we caught a train to Firenzie. Staying in the hills 20m north we had some great views. Florence is a neat city, it was the epicentre of art during the renaissance and has many masterpieces to show for it. Amazing marble buildings, the Santa Maria del Fiore is a spectacular sight.&lt;/p&gt;
+
+&lt;p&gt;Also spent a day seeing Tuscany: Siena, San Gimignano and Pisa. Really beautiful rolling hills, vineyards, stone buildings, 32 degree weather, awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/tuscany/tuscany-54.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salute!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/10/05/Florence.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/05/Florence.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Venice</title>
+        <description>&lt;p&gt;Stop two, Venezia! A massive tourist playground, but also incredibly beautiful.&lt;/p&gt;
+
+&lt;p&gt;Venice is outrageously photogenic, there’s colours and textures and water and bridges and boats and narrow alleys everywhere. Even with all of the people around you can somehow stumble upon these beautiful empty spaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/venice/venice-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/venice/venice-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-54.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-55.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-56.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-57.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-58.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-59.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-60.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-61.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-62.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-63.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-64.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-65.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-66.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-67.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-68.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-69.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-70.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-71.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/venice/venice-72.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salute!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/10/04/Venice.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/04/Venice.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Milan</title>
+        <description>&lt;p&gt;The first stop on our whirlwind tour de Italia was Milano. This place is massive. It’s known for it’s shopping which there’s certainly no shortage of. The Duomo is a fascinating marble church, the size and detail is mind-bending. Milan is also the home to Da Vinci’s Last Supper, it’s quite a feeling to be standing in front of such a monumental piece of artwork.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/milan/milan-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/milan/milan-34.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salute!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/10/03/Milan.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/03/Milan.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Italy prefix: Bordeaux and Cognac</title>
+        <description>&lt;p&gt;For summer this year Krysten and I went for a pretty epic 2 week trip through Italy. I’ve broken down each major destination from our trip into a separate post. We were traveling with Krysten’s parents, and our journey started in Bordeaux to visit Krysten’s sister who’s living there!&lt;/p&gt;
+
+&lt;p&gt;Bordeaux and Cognac are a very cool part of France. Full-on wine country, with charming old farmhouses, rolling hills, and plenty of vineyards. La Cite Du Vin was a highlight, an absolutely amazing (and brand new) museum in Bordeaux dedicated to the history, science and craft of viticulture. My favourite part, a smell sensory exhibit which displays a wide range of individual wine aromas. A must-visit if you’re traveling in this part of France.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/bordeaux/bordeaux-48.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salut!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/10/02/Bordeaux.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/02/Bordeaux.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Copenhagen!</title>
+        <description>&lt;p&gt;I love Copenhagen. We spent 4 days here and had a great time. So much great food, beer, and coffee culture - perfect for us! The weather was gorgeous while we were there. Danish design is super cool, we were lucky enough to be there during an event called 3 days of design. Many of the design studios and showrooms opened their doors and we could see their workspaces and talk to the designers. Danish folk are lovely, friendly, polite, happy, and the city is tidy. The Freetown is an entertaining semi-dystopian experience, no photos allowed so you’ll need to experience it for yourself ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-54.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-55.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-56.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-57.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-58.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-59.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-60.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-61.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-62.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-63.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-64.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-65.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-66.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-67.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-68.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-69.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-70.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-71.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-72.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-73.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-74.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-75.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-76.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/copenhagen/Copenhagen-77.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Skål!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/06/05/copenhagen.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/06/05/copenhagen.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Normandy</title>
+        <description>&lt;p&gt;For Krysten’s birthday we did a bit of a road trip down to Normandy. Turns out it’s a long drive - especially for a weekend stay. The French countryside is lovely though, and seeing it by car is a bit more interesting than on the train. So much amazing food and wine, and we got to stay in a castle (in Europe there’s castles on airbnb!). Mont St Michel is very impressive!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/normandy/Normandy-1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-4.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-5.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-7.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-9.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-17.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-18.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-21.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-22.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-23.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-24.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-25.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-26.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/normandy/Normandy-27.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Salut!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/06/04/normandy.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/06/04/normandy.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>London</title>
+        <description>&lt;p&gt;London is super cool. I really &lt;em&gt;really&lt;/em&gt; enjoyed our weekend there. Being around English folks is strangely comforting after being in Amsterdam for 1.5 years, and getting beer in proper full pints is freaking awesome. Had loads of cask ale! The city is more walkable than I expected, and we covered most of what we saw on foot. So much good food, coffee, beer, shopping, events, and interesting work avaialble here. 2 days really isn’t enough time to get familiar, but I can see us moving here for at least a some amount of time before we leave Europe. Definitely worth the visit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/london/london-01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-02.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-03.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-04.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/london/london-05.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-06.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-07.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-08.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-09.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-10.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-11.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-12.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-13.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-14.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-15.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-16.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-17.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-18.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-21.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-22.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-23.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-24.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-25.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-26.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-27.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-28.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-29.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-30.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-31.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-32.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-33.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-54.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/london/london-55.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://kellymilligan.co.nz/blog/travel/2016/04/16/london.html</link>
+        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/04/16/london.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+  </channel>
+</rss>
