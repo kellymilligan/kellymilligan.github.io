@@ -4,11 +4,86 @@
     <title>Code, beer, and limited legroom</title>
     <description>Photo journal of a Creative Front-end Developer from New Zealand living and working in Europe
 </description>
-    <link>http://kellymilligan.co.nz/blog/</link>
-    <atom:link href="http://kellymilligan.co.nz/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 30 Oct 2016 15:41:33 +0100</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 15:41:33 +0100</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 11 Apr 2017 21:04:07 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2017 21:04:07 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>North Wales</title>
+        <description>&lt;p&gt;After a  few months in London since Christmas, Krysten and I were really keen to get out of the city for a weekend. North Wales was a great choice! Rocky, rolling hills, castles, sheep, mist, and sleepy old resort towns.&lt;/p&gt;
+
+&lt;p&gt;We hired a car and drove down from Liverpool through Snowdonia National Park, spent a night in Caernarfon, and returned via the coast to see Conwy and Llandudno.&lt;/p&gt;
+
+&lt;p&gt;The castles are incredible, and they’re littered all over North Wales! The highlight though was our amazing meal at Blas in Caernarfon, stunning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-1.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-2.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-3.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-4.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-5.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-6.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-7.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-8.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-9.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-10.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-11.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-12.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-13.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-14.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-15.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-16.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-17.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-18.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-20.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-21.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-22.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-23.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-24.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-25.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-26.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-27.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-28.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-29.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-30.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-31.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-32.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-33.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-34.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-35.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-36.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-37.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-38.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-39.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-40.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-41.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-42.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-43.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-44.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-45.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-46.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-47.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-48.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-49.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-50.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-51.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-52.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-53.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-54.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/blog/images/posts/north-wales/north-wales-55.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Iechyd da!&lt;br /&gt;
+K&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Apr 2017 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2017/04/10/north-wales.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2017/04/10/north-wales.html</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
     
       <item>
         <title>Slovenia</title>
@@ -101,9 +176,9 @@
 &lt;p&gt;Na zdravje!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/10/30/slovenia.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/30/slovenia.html</guid>
+        <pubDate>Sat, 29 Oct 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/10/29/slovenia.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/10/29/slovenia.html</guid>
         
         
         <category>travel</category>
@@ -177,9 +252,9 @@ K&lt;/p&gt;
 &lt;p&gt;Salute!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Fri, 07 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/10/07/Naples.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/07/Naples.html</guid>
+        <pubDate>Thu, 06 Oct 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/10/06/Naples.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/10/06/Naples.html</guid>
         
         
         <category>travel</category>
@@ -242,9 +317,9 @@ K&lt;/p&gt;
 &lt;p&gt;Salute!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Thu, 06 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/10/06/Rome.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/06/Rome.html</guid>
+        <pubDate>Wed, 05 Oct 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/10/05/Rome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/10/05/Rome.html</guid>
         
         
         <category>travel</category>
@@ -314,9 +389,9 @@ K&lt;/p&gt;
 &lt;p&gt;Salute!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Wed, 05 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/10/05/Florence.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/05/Florence.html</guid>
+        <pubDate>Tue, 04 Oct 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/10/04/Florence.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/10/04/Florence.html</guid>
         
         
         <category>travel</category>
@@ -404,9 +479,9 @@ K&lt;/p&gt;
 &lt;p&gt;Salute!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/10/04/Venice.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/04/Venice.html</guid>
+        <pubDate>Mon, 03 Oct 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/10/03/Venice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/10/03/Venice.html</guid>
         
         
         <category>travel</category>
@@ -454,9 +529,9 @@ K&lt;/p&gt;
 &lt;p&gt;Salute!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/10/03/Milan.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/03/Milan.html</guid>
+        <pubDate>Sun, 02 Oct 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/10/02/Milan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/10/02/Milan.html</guid>
         
         
         <category>travel</category>
@@ -520,9 +595,9 @@ K&lt;/p&gt;
 &lt;p&gt;Salut!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Sun, 02 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/10/02/Bordeaux.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/10/02/Bordeaux.html</guid>
+        <pubDate>Sat, 01 Oct 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/10/01/Bordeaux.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/10/01/Bordeaux.html</guid>
         
         
         <category>travel</category>
@@ -613,9 +688,9 @@ K&lt;/p&gt;
 &lt;p&gt;Skål!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Sun, 05 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/06/05/copenhagen.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/06/05/copenhagen.html</guid>
+        <pubDate>Sat, 04 Jun 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/06/04/copenhagen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/06/04/copenhagen.html</guid>
         
         
         <category>travel</category>
@@ -656,80 +731,9 @@ K&lt;/p&gt;
 &lt;p&gt;Salut!&lt;br /&gt;
 K&lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/06/04/normandy.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/06/04/normandy.html</guid>
-        
-        
-        <category>travel</category>
-        
-      </item>
-    
-      <item>
-        <title>London</title>
-        <description>&lt;p&gt;London is super cool. I really &lt;em&gt;really&lt;/em&gt; enjoyed our weekend there. Being around English folks is strangely comforting after being in Amsterdam for 1.5 years, and getting beer in proper full pints is freaking awesome. Had loads of cask ale! The city is more walkable than I expected, and we covered most of what we saw on foot. So much good food, coffee, beer, shopping, events, and interesting work avaialble here. 2 days really isn’t enough time to get familiar, but I can see us moving here for at least a some amount of time before we leave Europe. Definitely worth the visit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/images/posts/london/london-01.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-02.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-03.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-04.jpg&quot; alt=&quot;&quot; /&gt; 
-&lt;img src=&quot;/blog/images/posts/london/london-05.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-06.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-07.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-08.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-09.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-10.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-11.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-12.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-13.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-14.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-15.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-16.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-17.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-18.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-20.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-21.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-22.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-23.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-24.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-25.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-26.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-27.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-28.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-29.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-30.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-31.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-32.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-33.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-34.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-35.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-36.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-37.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-38.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-39.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-40.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-41.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-42.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-43.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-44.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-45.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-46.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-47.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-48.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-49.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-50.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-51.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-52.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-53.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-54.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/blog/images/posts/london/london-55.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cheers!&lt;br /&gt;
-K&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Apr 2016 00:00:00 +0200</pubDate>
-        <link>http://kellymilligan.co.nz/blog/travel/2016/04/16/london.html</link>
-        <guid isPermaLink="true">http://kellymilligan.co.nz/blog/travel/2016/04/16/london.html</guid>
+        <pubDate>Fri, 03 Jun 2016 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/travel/2016/06/03/normandy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2016/06/03/normandy.html</guid>
         
         
         <category>travel</category>
