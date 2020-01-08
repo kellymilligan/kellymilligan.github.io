@@ -186,7 +186,7 @@
       user-select: none; }
       @media only screen and (max-width: 599px) {
         .home .home__inner p {
-          font-size: 2rem; }
+          font-size: 1.7rem; }
           .is-ios.is-mobile .home .home__inner p {
             font-size: 1.9rem; } }
       .home .home__inner p .char {
